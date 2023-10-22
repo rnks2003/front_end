@@ -1,0 +1,13 @@
+body {
+    font-size: medium;
+    font-family: "Courier New", Courier, monospace;
+    text-align: center;
+  }
+  #myImg {
+    height: 40%;
+    width: auto;
+  }
+  h {
+    font-size: larger;
+    font-weight: bold;
+  }
